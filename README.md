@@ -4,7 +4,7 @@ This is a whitelist script designed to protect your private world. It exiles pla
 
 ## Description
 
-Why did I create this?
+### Why did I create this?
 Because I’ve had enough of people who discover the URL of your private world and open instances of it without your permission.
 
 ## Dependency
