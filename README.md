@@ -52,7 +52,7 @@ Because I’ve had enough of people who discover the URL of your private world a
 * Assign this Canvas to the ```Black Screen Canvas``` slot in ```Iris_Whitelist_Manager```
 
 ### 8. The most important step
-Don’t forget to add ```your name``` and ```your friends’ usernames``` to the ```whitelist```
+Don’t forget to add ```your name``` and ```your friends’ usernames``` to the ```Whitelist```
 
 ##  What Happens to Unauthorized Users?
 * They are instantly teleported to the ```Deny Zone```
