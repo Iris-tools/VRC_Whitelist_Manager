@@ -36,7 +36,7 @@ Because I’ve had enough of people who discover the URL of your private world a
 ### 5. Add Udon Behaviour to Scene
 * In the Hierarchy, create an ```Empty GameObject``` and name it ```Iris_Whitelist_Manager```
 * Add a ```Udon Behaviour``` component
-* Assign the ```Iris_Whitelist_Manager.cs``` Udon Program Asset you created
+* Assign the ```Iris_Whitelist_Manager``` Udon Program Asset you created
 
 ### 6. Setup Deny Zone
 * In the Hierarchy, create a ```Cube``` or ```Empty GameObject``` named ```DenyZone```
