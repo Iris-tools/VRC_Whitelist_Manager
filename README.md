@@ -1,11 +1,11 @@
 # VRC_Whitelist_Manager
 
-* A VRC UdonSharp script that allows you to protect your private world by whitelisting specific usernames.
-* Unauthorized users are exiled to a deny zone, shown a black screen, and lights can be turned off for them as a deterrent.
+This is a whitelist script designed to protect your private world. It exiles players who are not on the whitelist to a designated location, blocks their vision with a black screen, and disables world lighting as a form of protection.
 
 ## Description
 
-This is a whitelist script designed to protect your private world. It exiles players who are not on the whitelist to a designated location, blocks their vision with a black screen, and disables world lighting as a form of protection.
+Why did I create this?
+Because I’ve had enough of people who discover the URL of your private world and open instances of it without your permission.
 
 ## Dependency
 
